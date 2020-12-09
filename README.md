@@ -56,6 +56,6 @@ I'm [Sivasis Tripathy](https://github.com/SivasisTripathy), a student of IIIT Bh
 
 <div align="left">
 
-![ViewCount](https://komarev.com/ghpvc/?username=SivasisTripathy) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)]
+![ViewCount](https://komarev.com/ghpvc/?username=SivasisTripathy) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)]()
 
 </div>
