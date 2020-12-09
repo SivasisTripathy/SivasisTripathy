@@ -47,7 +47,7 @@ I'm [Sivasis Tripathy](https://github.com/SivasisTripathy), a student of IIIT Bh
    [![Gmail Badge](https://img.shields.io/badge/-sivasistripathy-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b119055@iiit-bh.ac.in)](mailto:b119055@iiit-bh.ac.in)
    [![Instagram Badge](https://img.shields.io/badge/-@the_original_tripathy-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/the_original_tripathy/)](https://instagram.com/the_original_tripathy/)
    [![Facebook Badge](https://img.shields.io/badge/-sivasis.tripathy-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sivasis.tripathy/)](https://www.facebook.com/sivasis.tripathy/)
-   [![GeeksforGeeks Badge](https://img.shields.io/badge/-b119055-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/b119055)](https://auth.geeksforgeeks.org/user/b119055)
+   [![GeeksforGeeks Badge](https://img.shields.io/badge/-sivasistripathy-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/sivasistripathy)](https://auth.geeksforgeeks.org/user/sivasistripathy)
    [![Twitter Badge](https://img.shields.io/badge/-@SaxiBitch-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SaxiBitch)](https://twitter.com/SaxiBitch)
 
 </p>
