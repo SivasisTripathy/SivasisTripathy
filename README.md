@@ -49,6 +49,7 @@ I'm [Sivasis Tripathy](https://github.com/SivasisTripathy), a student of IIIT Bh
    [![Facebook Badge](https://img.shields.io/badge/-sivasis.tripathy-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sivasis.tripathy/)](https://www.facebook.com/sivasis.tripathy/)
    [![GeeksforGeeks Badge](https://img.shields.io/badge/-sivasistripathy-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/sivasistripathy)](https://auth.geeksforgeeks.org/user/sivasistripathy)
    [![Twitter Badge](https://img.shields.io/badge/-@SaxiBitch-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SaxiBitch)](https://twitter.com/SaxiBitch)
+   [![LeetCode Badge](https://img.shields.io/badge/-sivasistripathy-white?style=flat-square&labelColor=white&logo=Leetcode&logoColor=black&link=https://leetcode.com/sivasistripathy/)](https://leetcode.com/sivasistripathy/)
 
 </p>
 
