@@ -43,7 +43,7 @@ I'm [Sivasis Tripathy](https://github.com/SivasisTripathy), a student of IIIT Bh
 **How about Connecting** :coffee:
 <p align="center">
 
-   [![Linkedin Badge](https://img.shields.io/badge/-sivasistripathy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sivasis-tripathy-a10a021b6/)](https://www.linkedin.com/in/sivasis-tripathy-a10a021b6/)
+   [![Linkedin Badge](https://img.shields.io/badge/-sivasistripathy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sivasis-tripathy-a10a021b6/)](https://www.linkedin.com/in/sivasis-tripathy/)
    [![Gmail Badge](https://img.shields.io/badge/-sivasistripathy-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b119055@iiit-bh.ac.in)](mailto:b119055@iiit-bh.ac.in)
    [![Instagram Badge](https://img.shields.io/badge/-@theoriginaltripathy-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/the_original_tripathy/)](https://instagram.com/theoriginaltripathy/)
    [![Facebook Badge](https://img.shields.io/badge/-sivasis.tripathy-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/sivasis.tripathy/)](https://www.facebook.com/sivasis.tripathy/)
